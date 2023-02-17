@@ -17,3 +17,4 @@ illum_dir_int.m calculate illumination direction (metal sphere) and intensity (w
 normal_estimation.m estimate normal field using the Lambertian assumption
 
 depth_cal.m calculate the depth of the surface
+object_vis.m visualize all results and save images
