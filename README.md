@@ -19,3 +19,5 @@ normal_estimation.m estimate normal field using the Lambertian assumption
 depth_cal.m calculate the depth of the surface
 
 object_vis.m visualize all results and save images
+
+All the resulting images are in /results
