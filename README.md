@@ -1,5 +1,5 @@
 # CE6451
-Instructor: Professor Rongjun Qin
+Instructor: Professor Rongjun Qin \\
 Website: https://u.osu.edu/qin.324/
 ## Assignment 1 Photometric Stereo
 Assignment_1.pdf describes the detailed requirements for this assignment.
