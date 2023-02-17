@@ -3,7 +3,7 @@ Instructor: Professor Rongjun Qin
 
 Website: https://u.osu.edu/qin.324/
 
-## Assignment 1 Photometric Stereo
+## Assignment 1 Photometric Stereo (under folder Assignment1)
 Assignment_1.pdf describes the detailed requirements for this assignment.
 
 HW1_report.pdf is the final report of this assignment.
